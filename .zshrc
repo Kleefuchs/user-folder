@@ -12,6 +12,8 @@ autoload -Uz compinit
 
 export PS1="[%n@%m %~]$ "
 
+source ~/.zsh/zoxide
+
 compinit
 # End of lines added by compinstall
 
