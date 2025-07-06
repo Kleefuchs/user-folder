@@ -11,6 +11,7 @@ zstyle :compinstall filename '/home/kleefuchs/.zshrc'
 autoload -Uz compinit
 
 export PS1="[%n@%m %~]$ "
+alias telmap='telnet mapscii.me'
 
 compinit
 # End of lines added by compinstall
