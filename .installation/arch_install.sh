@@ -1,3 +1,3 @@
-yay -S zsh zoxide
+yay -S zsh zoxide eza
 
 chsh -s $(which zsh)

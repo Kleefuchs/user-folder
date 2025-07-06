@@ -12,6 +12,7 @@ autoload -Uz compinit
 
 export PS1="[%n@%m %~]$ "
 alias telmap='telnet mapscii.me'
+alias ls='eza'
 
 source ~/.zsh/zoxide
 
