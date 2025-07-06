@@ -13,6 +13,8 @@ autoload -Uz compinit
 export PS1="[%n@%m %~]$ "
 alias telmap='telnet mapscii.me'
 
+source ~/.zsh/zoxide
+
 compinit
 # End of lines added by compinstall
 
