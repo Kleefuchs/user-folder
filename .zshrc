@@ -17,7 +17,7 @@ alias cat='bat'
 
 source ~/.zsh/zoxide
 
+export JAVA_HOME=/usr/lib/jvm/zulu-21
+
 compinit
 # End of lines added by compinstall
-
-hyfetch
